@@ -1,0 +1,2 @@
+# mobocracy
+game about powerhunger
